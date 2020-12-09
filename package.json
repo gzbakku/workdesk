@@ -1,0 +1,16 @@
+{
+  "name": "workdesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tejasav dutt",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "get_npm_root": "^1.0.1",
+    "input": "^1.0.1"
+  }
+}
